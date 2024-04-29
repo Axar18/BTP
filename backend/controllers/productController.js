@@ -5,6 +5,7 @@ const addProduct = asyncHandler(async (req, res) => {
   try {
     const { name, description, price, category, quantity, brand } = req.fields;
 
+    console.log(name, description, price, category, quantity, brand);
     // Validation
     switch (true) {
       case !name:
@@ -22,6 +23,7 @@ const addProduct = asyncHandler(async (req, res) => {
     }
 
     const product = new Product({ ...req.fields });
+    console.log(product);
     await product.save();
     res.json(product);
   } catch (error) {
