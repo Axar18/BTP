@@ -3,14 +3,14 @@
 ### E-Commerce Website
 
 #### functionalities:(completed) 
--login
--signup with valid password ,profile photo
--Home page
--Shop with filter
--Cart
--Favorite Products
--checkout page
--Admin Panel
+-login,sign up\
+-signup with valid password\
+-Home page\
+-Shop with filter\
+-Cart\
+-Favorite Products\
+-checkout page\
+-Admin Panel\
 
 ## Screenshots
  
