@@ -17,7 +17,7 @@
 ![sighup](frontend/screenshots/6.png)
 -Favorite product:\
 ![validation password](frontend/screenshots/7.png)
--checkout page:\
+-checkout page:
  
 ![videocall accpect button](frontend/screenshots/8.png)
 ![videocall](frontend/screenshots/9.png)
